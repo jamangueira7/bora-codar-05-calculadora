@@ -15,7 +15,7 @@
   <img alt="app" src=".github/img_1.png" width="500px" height="500px">
 </p>
 
-## Player de Música
+## Bora Codar 05 - Calculadora
 
 ## 🚀 Tecnologias
 
@@ -27,11 +27,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto de front end (apenas template) de um player de música. 
+Projeto de front end (apenas template) de uma calculadora
 
-Inspirado na video aula do canal - [Rocketseat](https://www.youtube.com/watch?v=M_eaBcany6Y)
+Inspirado na video aula do canal - [Rocketseat](#)
 
-Figma do projeto - [Aqui](https://www.figma.com/community/file/1195050524500542670)
+Figma do projeto - [Aqui](https://www.figma.com/community/file/1202607074523509182)
 
 ## 🚀 Como Rodar
 
