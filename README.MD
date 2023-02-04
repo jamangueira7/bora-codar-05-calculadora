@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="app" src=".github/img.png" width="500px" height="500px">
+  <img alt="app" src=".github/img.png">
 </p>
 
 <p align="center">
