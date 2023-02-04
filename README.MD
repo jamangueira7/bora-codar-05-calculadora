@@ -11,9 +11,6 @@
   <img alt="app" src=".github/img.png">
 </p>
 
-<p align="center">
-  <img alt="app" src=".github/img_1.png" width="500px" height="500px">
-</p>
 
 ## Bora Codar 05 - Calculadora
 
@@ -29,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto de front end (apenas template) de uma calculadora
 
-Inspirado na video aula do canal - [Rocketseat](#)
+Inspirado na video aula do canal - [Rocketseat](https://)
 
 Figma do projeto - [Aqui](https://www.figma.com/community/file/1202607074523509182)
 
